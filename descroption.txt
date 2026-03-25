@@ -1,0 +1,10 @@
+You are required to implement a simplified hospital managment system in C++ to manage patients , doctors , and their appointments, The system should allow adding new patients and doctors , scheduling appointments and viewing the details of patients , doctrs and scheduled appointments. 
+
+1. Add Patient  -> Name , Age , Gender , ID (Beacuse the name can be identical)
+2. Add Doctor -> Name , Age , Gender , ID
+3. Schedule Appointment -> Patient ID , Doctor ID, DATE, 
+4. View Patients -> Print all the patients -> Store them
+5. View Doctors -> Print all the Doctor -> Store them
+6. View Appointments -> Print all the Appointment -> Store them
+0. Exit
+
